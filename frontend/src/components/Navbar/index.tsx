@@ -7,7 +7,7 @@ function Navbar() {
       <nav className='container'>
         <div className='dsmovie-nav-content'>
           <h1>
-            Rate the film
+            Rate The Movie - RTM
           </h1>
           <a href='https://github.com/joaomanoel-dev'>
             <div className='dsmovie-contact-container'>
